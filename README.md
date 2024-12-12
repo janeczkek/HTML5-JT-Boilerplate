@@ -22,4 +22,4 @@ To rozszerzenie VSC zapewnia szybkie tworzenie nowych plik√≥w HTML, w stylu, kt√
 
 # Source
 [Github](https://github.com/janeczkek/HTML5-JT-Boilerplate)<br />
-Bazowane na: https://github.com/sidthesloth92/vsc_html5_boilerplate
+Bazowane na [projekcie Sidthesloth'a](https://github.com/sidthesloth92/vsc_html5_boilerplate)
