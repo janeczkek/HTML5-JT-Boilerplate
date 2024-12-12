@@ -1,9 +1,9 @@
 {
-    "name": "html5-boilerplate",
-    "displayName": "HTML Boilerplate",
-    "publisher": "sidthesloth",
-    "description": "A basic HTML5 boilerplate snippet generator.",
-    "version": "1.1.1",
+    "name": "html5-JT-boilerplate",
+    "displayName": "HTML Joasia Torzecka Boilerplate",
+    "publisher": "The J",
+    "description": "Rozszerzenie VSC do automatycznego tworzenia struktury HTML5, której wymaga pani Joasia T. na lekcjach PAI w ZSE Bydgoszcz ( bazowany na rozrzerzeniu sidthesloth https://github.com/sidthesloth92/vsc_html5_boilerplate )",
+    "version": "0.1",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -13,14 +13,14 @@
     "engines": {
         "vscode": "^0.10.x"
     },
-    "homepage": "https://github.com/sidthesloth92/vsc_html5_boilerplate/blob/master/README.md",
+    "homepage": "https://github.com/janeczkek/HTML5-JT-Boilerplate/blob/master/README.md",
     "bugs": {
-        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate/issues",
-        "email": "sidthesloth92@hotmail.com"
+        "url": "https://github.com/janeczkek/HTML5-JT-Boilerplate/issues",
+        "email": "thejalt@proton.me"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/sidthesloth92/vsc_html5_boilerplate.git"
+        "url": "https://github.com/janeczkek/HTML5-JT-Boilerplate.git"
     },
     "categories": [
         "Snippets"
@@ -28,9 +28,10 @@
     "keywords": [
         "html",
         "html5",
-        "snippet",
-        "snippets",
-        "boilerplate"
+        "jolanta",
+        "torzecka",
+        "joasia",
+        "jt"
     ],
     "contributes": {
         "snippets": [

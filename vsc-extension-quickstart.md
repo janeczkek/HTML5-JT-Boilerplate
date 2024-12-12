@@ -1,25 +1,25 @@
-# README
-## Visual Studio Code HTML Boilerplate
+# README (Przeczytaj-mnie)
+## Visual Studio Code HTML Szablon JT
  
-This extension provides the standard HTML boilerplate code used in all web applications.
+To rozszerzenie VSC zapewnia szybkie tworzenie nowych plików HTML, w stylu, którego wymaga pani Doktor habilitowana Jolanta Torzecka na swoich lekcjach Programowania aplikacji internetowych (PAI) w Zespole Szkół Elektronicznych w Bydgoszczy (ZSE Bydgoszcz)
 
-# Usage
-Type 'html5-boilerplate' in an HTML file and select the snippet from the auto suggestion dropdown to get the HTML boilerplate.
+# Instalacja
 
-![alt text](http://s19.postimg.org/3skf6mf5t/preview.gif "Snippets Preview")
+1. Zainstaluj VSC
+2. Uruchom VS Code
+3. Uruchom paletę poleceń używając skrótu `Ctrl-Shift-P` (Windows, Linux), lub `Cmd-Shift-P` (OSX)
+4. Wpisz Install Extension i wybierz 'Developer : Install Extensions from Location'
+5. Wybierz: "HTML Szablon JT"
+6. Gotowe, możesz już używać rozszerzenia.
 
-# Installation
-
-1. Install Visual Studio Code 0.10.1 or higher
-2. Launch VS Code
-3. Launch the command palette by using `Ctrl-Shift-P` (Windows, Linux) or `Cmd-Shift-P` (OSX)
-4. Type in Install Extension and select 'Extensions : Install Extensions'
-5. Type `HTML5 Boilerplate`
-6. Choose the extension from the drop down
-7. Reload Visual Studio Code
+# Użycie
+1. Utwórz nowy dokument typu HTML
+2. Napisz `html` i wybierz opcję `HTML-JT`, aby wygenerować szablon HTML.
  
-# Contact
-If you have any issues report them at [Issues](https://github.com/sidthesloth92/vsc_html5_boilerplate/issues)
+# Kontakt
+[email](mailto:thejalt@proton.me)<br />
+[github](https://github.com/janeczkek)
 
 # Source
-[Github](https://github.com/sidthesloth92/vsc_html5_boilerplate)
+[Github](https://github.com/janeczkek/HTML5-JT-Boilerplate)<br />
+Bazowane na [projekcie Sidthesloth'a](https://github.com/sidthesloth92/vsc_html5_boilerplate)
