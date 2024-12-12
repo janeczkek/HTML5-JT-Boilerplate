@@ -17,10 +17,9 @@ To rozszerzenie VSC zapewnia szybkie tworzenie nowych plików HTML, w stylu, kt�
 2. Napisz `html` i wybierz opcję `HTML-JT`, aby wygenerować szablon HTML.
  
 # Kontakt
-[email](mailto:thejalt@proton.me)
+[email](mailto:thejalt@proton.me)<br />
 [github](https://github.com/janeczkek)
 
 # Source
-[Github](https://github.com/janeczkek/HTML5-JT-Boilerplate)
-
+[Github](https://github.com/janeczkek/HTML5-JT-Boilerplate)<br />
 Bazowane na: https://github.com/sidthesloth92/vsc_html5_boilerplate
